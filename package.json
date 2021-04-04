@@ -114,10 +114,6 @@
     "webpack-manifest-plugin": "1.1.0",
     "whatwg-fetch": "^2.0.1"
   },
-  "peerDependencies": {
-    "prop-types": "^15.5.10",
-    "react": "^15.4.2"
-  },
   "dependencies": {
     "react-style-proptype": "^3.0.0"
   }
